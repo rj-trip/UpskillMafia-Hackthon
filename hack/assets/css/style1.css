@@ -1,0 +1,21 @@
+/*  */
+.header{
+    background-color: white;
+}
+.blog{
+  margin-top: 5vw;
+  color: white;
+  font-size: 20px;
+    background-color: rgb(79, 79, 254);
+display: flex;
+align-items: center;
+justify-content: center;
+flex-direction: column;
+width: 100%;
+padding: 7vw;
+border-radius: 5px;
+}
+.blog p{
+  padding: 10px;
+  font-weight: bold;
+}
